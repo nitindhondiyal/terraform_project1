@@ -1,2 +1,2 @@
-ami_id = "provide ami id"
-instance_typw = "t2.micro"
+ami_value = "provide ami id"
+instance_type = "t2.micro"
